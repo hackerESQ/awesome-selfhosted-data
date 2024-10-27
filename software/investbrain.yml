@@ -1,0 +1,14 @@
+name: "Investbrain"
+website_url: "https://investbra.in"
+source_code_url: "https://github.com/investbrainapp/investbrain"
+description: "A smart investment tracker that consolidates and monitors market performance across brokerages with data out-of-the-box market data providers for Yahoo Finance and Alpha Vantage."
+licenses:
+  - CC-BY-NC-4.0
+platforms:
+  - PHP
+  - Javascript
+  - Docker
+tags:
+  - Money, Budgeting & Management
+depends_3rdparty: true
+demo_url: "https://investbra.in"
